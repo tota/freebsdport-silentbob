@@ -2,11 +2,11 @@
 # Date created:		2008-11-13
 # Whom:			TAKATSU Tomonari <tota@rtfm.jp>
 #
-# $FreeBSD: ports/devel/silentbob/Makefile,v 1.5 2010/01/05 15:34:27 tota Exp $
+# $FreeBSD: ports/devel/silentbob/Makefile,v 1.6 2010/02/15 14:42:53 tota Exp $
 #
 
 PORTNAME=	silentbob
-PORTVERSION=	2.2
+PORTVERSION=	2.3
 CATEGORIES=	devel
 MASTER_SITES=	SF/${PORTNAME}/${PORTNAME}2/${PORTNAME}-${PORTVERSION}
 
